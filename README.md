@@ -40,8 +40,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="https://www.behance.net/chaitankaisarl">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+
   <a href="mailto:poornachaitanya4259@gmail.com">
     <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://dribbble.com/chaitanyakaisarla">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
 
 </p>
@@ -92,7 +100,7 @@
 
 <h3>🧰 Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 </td>
 
@@ -115,9 +123,9 @@
 ---
 
 ⭐ Currently Building  
-• UI/UX Case Studies  
 • React Projects  
-• Portfolio Projects  
+• Portfolio Projects
+• UI/UX Case Studies 
 
 🚀 Goal  
 Become a professional **Frontend Developer & UI/UX Designer**
