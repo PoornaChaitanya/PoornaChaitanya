@@ -46,7 +46,6 @@
 
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=PoornaChaitanya&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -73,7 +72,7 @@
 
 <h3>📚 Frameworks & Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 
 </td>
 
@@ -91,9 +90,9 @@
 
 <td width="50%" align="center">
 
-<h3>🧰 Tools</h3>
+<h3>🧰 Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,vscode,antigravity" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
 </td>
 
@@ -118,7 +117,7 @@
 ⭐ Currently Building  
 • UI/UX Case Studies  
 • React Projects  
-• Portfolio Projects
+• Portfolio Projects  
 
 🚀 Goal  
-Become a professional **UI/UX Designer & Frontend Developer**
+Become a professional **Frontend Developer & UI/UX Designer**
