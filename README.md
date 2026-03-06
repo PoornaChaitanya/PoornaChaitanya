@@ -2,119 +2,123 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Chaitanya Kaisarla</strong>
+  Hi, I'm <strong>Poorna Chaitanya Kaisarla</strong>
 </h1>
 
-<h3>Frontend Developer | MERN • UI/UX</h3>
+<h3>Frontend Developer • UI/UX Designer • React</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a frontend developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a passionate frontend developer and UI/UX designer who enjoys turning ideas into clean,
+    user-friendly digital experiences. I love designing intuitive interfaces and bringing them to life
+    using modern frontend technologies.
+  </p>
+
+  <p>
+    I recently graduated in Electronics & Communication Engineering and I'm currently looking for
+    opportunities where I can contribute, learn, and grow as a designer and developer.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💻_Frontend_Developer-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎨_UI/UX_Designer-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Work-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
-  
+<h3>🌐 Connect With Me</h3>
+
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+
+  <a href="https://github.com/PoornaChaitanya">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/in/chaitanyakaisarla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Midhun-Nk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  <a href="mailto:poornachaitanya4259@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/midhun-nk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
 </p>
 
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=PoornaChaitanya&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
+---
 
 ## 🛠️ Skills
+
 <p align="center">
+
 <table>
+
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
-<br/><br/>
+<td width="50%" align="center">
+
+<h3>💻 Programming</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+
+<h3>📚 Frameworks & Libraries</h3>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+
 </td>
-
-
 
 </tr>
+
 <tr>
+
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
+
+<h3>🎨 UI/UX & Design</h3>
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+
+<h3>🧰 Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,antigravity" />
+
 </td>
+
 </tr>
+
 </table>
+
 </p>
 
-
-
-
-
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+
+<img src="https://streak-stats.demolab.com?user=PoornaChaitanya&theme=dark&hide_border=true" alt="Streak" />
+
 </div>
 
 ---
 
-## ❤️ Support Me
+⭐ Currently Building  
+• UI/UX Case Studies  
+• React Projects  
+• Portfolio Projects
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+🚀 Goal  
+Become a professional **UI/UX Designer & Frontend Developer**
